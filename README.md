@@ -94,25 +94,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=cryptoBLD&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoBLD&hide_border=true&layout=compact" align="right" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
