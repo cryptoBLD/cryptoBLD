@@ -6,7 +6,7 @@
 ### <div align="center">I'm Yann, I'm interested in everything that has to do with computers.</div>  
   
 
-- 🔭 I’m currently working on [C02efficient](https://github.com/Soraxem/Co2efficient)  
+- 🔭 I’m currently working on [Foodoverflow](https://github.com/cryptoBLD/foodoverflow)  
   
 
 - 🌱 I’m currently learning about AI and Facial recognition  
